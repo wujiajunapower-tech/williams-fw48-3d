@@ -1,0 +1,22 @@
+{
+  "name": "williams-fw48-technical-studio",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "vite build",
+    "preview": "vite preview --host 127.0.0.1",
+    "test:e2e": "node tests/modes-browser.mjs",
+    "test:motion": "node tests/modes-unit.mjs",
+    "test:production": "node tests/modes-production.mjs"
+  },
+  "dependencies": {
+    "three": "0.186.1",
+    "gsap": "3.15.0"
+  },
+  "devDependencies": {
+    "vite": "8.3.4",
+    "playwright": "1.58.2"
+  }
+}

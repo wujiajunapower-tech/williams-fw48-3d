@@ -1,0 +1,37 @@
+/* Existing Williams layout, typography, renderer and lighting are retained.
+ * The mode console replaces the transport footer; no linear playback UI remains. */
+:root{--ease-out:cubic-bezier(.23,1,.32,1);--ease-in-out:cubic-bezier(.77,0,.175,1)}
+.experience{grid-template-rows:66px minmax(0,1fr)}
+.viewport::after{content:"";position:absolute;inset:auto 0 0;height:160px;pointer-events:none;background:linear-gradient(transparent,#080e1680)}
+.mode-console{position:absolute;z-index:3;left:50%;bottom:32px;transform:translateX(-50%);width:min(540px,calc(100% - 36px));display:flex;flex-direction:column;align-items:center;gap:9px}
+.mode-dock{display:grid;grid-template-columns:1fr 1fr 1.18fr;width:100%;padding:6px;border:1px solid #6f9dce40;border-radius:14px;background:linear-gradient(135deg,#142236e6,#091320e6);backdrop-filter:blur(18px) saturate(125%);box-shadow:0 14px 44px #0007,inset 0 1px #d3e6ff0c}
+.mode-dock button{position:relative;display:flex;justify-content:center;align-items:center;gap:10px;min-height:54px;padding:7px 11px;border:1px solid transparent;border-radius:9px;color:#8c9fb9;transition:color 180ms var(--ease-out),background 180ms var(--ease-out),border-color 180ms var(--ease-out),transform 130ms var(--ease-out)}
+.mode-dock button+button{margin-left:4px}
+.mode-dock button>small{font:10px Bahnschrift,"Segoe UI",sans-serif;color:#506e95}
+.mode-dock button>span{text-align:left;font-size:12px;line-height:1.55;white-space:nowrap;font-weight:600}
+.mode-dock em{display:block;font:10px "Segoe UI",sans-serif;letter-spacing:.3px;color:#6484af;margin-top:1px}
+.mode-dock button[aria-pressed=true]{background:linear-gradient(135deg,#284f7bc9,#173558d9);border-color:#81baff61;color:#e0efff;box-shadow:inset 0 1px #bfddff17,0 2px 14px #15539618}
+.mode-dock button[aria-pressed=true] small,.mode-dock button[aria-pressed=true] em{color:#98c9ff}
+.mode-dock button:active{transform:scale(.975)}
+.aero-tabs{display:flex;gap:4px;padding:4px;background:#0b1728e8;border:1px solid #728ebd38;backdrop-filter:blur(14px);border-radius:9px;box-shadow:0 8px 20px #0003}
+.aero-tabs button{min-height:36px;border-radius:6px;padding:7px 18px;color:#809bbd;font-size:11px;transition:background 180ms var(--ease-out),color 180ms var(--ease-out)}
+.aero-tabs button[aria-selected=true]{background:#274567;color:#d2e9ff}
+.scene-pause{position:absolute;bottom:-29px;min-height:28px;padding:3px 14px;border-radius:6px;background:#101d2ad9;border:1px solid #6a90bc30;font-size:10px;color:#8ba9ce;transition:color 160ms var(--ease-out),background 160ms var(--ease-out)}
+body[data-mode=drive] .mode-console,body[data-mode=aero] .mode-console{bottom:43px}
+.scene-caption{bottom:132px;z-index:2}.scene-caption>p{display:none}
+body[data-mode=aero] .scene-caption{bottom:184px}
+.flow-legend{position:absolute;left:20px;right:20px;top:78px;display:flex;flex-wrap:wrap;gap:8px 13px;pointer-events:none}
+.flow-legend>span{display:flex;align-items:center;gap:5px;font-size:9px;color:#a0b1c9;background:#0a1423b3;padding:4px 6px;border-radius:3px;transition:opacity 180ms var(--ease-out)}
+.flow-legend i{width:12px;height:2px;background:var(--flow)}.flow-legend .is-off{opacity:.23}
+.view-tools button{min-height:40px}.flow-toggle{width:40px;height:40px;min-height:40px}.flow-select{min-height:60px}
+.inspector-panel[hidden=false]{animation:panel-in 180ms var(--ease-out)}
+.check-label{line-height:1.8;min-height:32px;cursor:pointer}.check-label input{height:17px;width:17px;flex-shrink:0}
+#asset-note{margin-top:20px;line-height:1.9;color:#7b92b1}
+.model-notice{bottom:20px}.scene-state{padding-top:14px}
+@keyframes panel-in{from{opacity:.4;transform:translateY(3px)}to{opacity:1;transform:none}}
+@media(hover:hover) and (pointer:fine){.mode-dock button:hover{background-color:#25415e80;color:#e1edff}.aero-tabs button:hover,.scene-pause:hover{background-color:#263e5b;color:#e1edff}}
+@media(max-width:1150px) and (min-width:801px){.flow-legend{top:116px;left:15px;right:15px}.mode-dock button{gap:6px;padding:7px}.mode-dock button>small{display:none}}
+@media(max-width:1000px){.experience{grid-template-rows:64px auto}.workspace{grid-template-rows:auto max(550px,66svh)}.mode-console{width:calc(100% - 26px)}.mode-dock button{gap:5px}.mode-dock button>span{font-size:11px}.mode-dock em{font-size:9px}.scene-caption{bottom:125px}.scene-state{padding-top:0}}
+@media(max-width:800px){.viewport{height:clamp(470px,66svh,640px);min-height:470px}.mode-dock button{min-height:52px}.mode-dock button>small{display:block;font-size:9px}.flow-legend{top:70px;left:14px;right:14px}.scene-caption{left:16px;bottom:126px}.scene-caption>div{gap:4px}.mode-console{bottom:26px}.scene-state{padding-top:12px}.aero-tabs button{min-height:40px}.flow-toggle{width:44px;height:44px;min-height:44px}.view-tools button{min-height:40px;width:35px}}
+@media(max-width:430px){.mode-dock button>small{display:none}.mode-dock button>span{font-size:11px}.mode-dock button{padding:6px 7px}.mode-dock em{font-size:9px;letter-spacing:0}.mode-console{width:calc(100% - 24px)}.mode-dock{padding:4px;border-radius:12px}.mode-dock button+button{margin-left:2px}.scene-caption span{font-size:9px}.flow-legend{gap:4px 7px}.flow-legend>span{font-size:8px}}
+@media(prefers-reduced-motion:reduce){.mode-dock button,.aero-tabs button,.scene-pause,.flow-legend>span{transition:none}.inspector-panel{animation:none}}

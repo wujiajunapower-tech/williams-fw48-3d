@@ -1,0 +1,7 @@
+/* Accessible Chinese reading size; applies without relying on downloadable fonts. */
+body{-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility}
+@media(min-width:1001px){.workspace{grid-template-columns:244px minmax(0,1fr) 324px}.story-rail{padding-left:24px;padding-right:24px}.inspector-panel{padding-left:23px;padding-right:23px}.story-rail h2{font-size:23px}.chapter-description,.reading-block p,.detail-section p,.panel-lead{font-size:13px;color:#a1b4ce}.chapter-tip>p{font-size:12px;color:#849dbc}.small-note{color:#7891b0}.flow-explanation>p{font-size:12px}.flow-select>span{font-size:13px}.flow-select small{font-size:10px}.subparts>button,.sub-note p{font-size:12px}.specs b{font-size:20px}}
+@media(min-width:1600px){.workspace{grid-template-columns:280px minmax(0,1fr) 354px}.story-rail h2{font-size:27px}.reading-block p,.detail-section p,.panel-lead{font-size:14px}}
+@media(max-width:1150px) and (min-width:1001px){.workspace{grid-template-columns:216px minmax(0,1fr) 294px}.story-rail{padding-left:18px;padding-right:18px}.inspector-panel{padding-left:19px;padding-right:19px}.story-rail h2{font-size:21px}}
+/* Short embedded browser panes scroll as a document; the controls must not cover the car. */
+@media(max-width:1000px) and (max-height:620px){.transport{position:static;box-shadow:none}}

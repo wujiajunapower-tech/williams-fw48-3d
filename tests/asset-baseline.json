@@ -1,0 +1,9 @@
+{
+  "renderer": "cd2c323fb20d8790403e1f1f09e2132ec4854e57de20f40d8bd0460092afa098",
+  "lighting": "3419d7e9964cce3596548ca1a6d1e31d990b780fb0e53ce077ddd0e7fb229d36",
+  "fallbackGeometry": "2ed6999f4e09c2142e893784a84f28cd83ff033e793160d3988e4a3141607536",
+  "modules": {
+    "components/Materials.js": "43920f7962cf0be216f98d8630cdd82884a01b82260ae24d1ede2c91faaa3f3c",
+    "assets/loadCarModel.js": "5382d0f53e1feb94218f8f2e2c2212ebcf28f4ddd08bb284dbe0f7c7126c7662"
+  }
+}

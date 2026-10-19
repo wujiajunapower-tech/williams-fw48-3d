@@ -1,0 +1,13 @@
+node_modules/
+dist/
+test-results/
+*.log
+.viewer/
+upgrade-backup/
+.env
+.env.*
+!.env.example
+assets/references/fw48-official.jpg
+public/models/fw48/asset-audit.json
+DELIVERY.md
+UPGRADE-V2.md
