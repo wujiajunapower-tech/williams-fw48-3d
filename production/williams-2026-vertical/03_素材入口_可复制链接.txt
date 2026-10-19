@@ -1,0 +1,207 @@
+﻿威廉姆斯2026 素材查找入口
+资料截至2026-10-18；9:16竖屏；页面可读不等于已播放或获再用许可。
+
+A01 2025车队成绩基线
+https://www.formula1.com/en/results/2025/team
+查找：表格搜索 Williams；核对P5、137分。
+用途：原创成绩卡：2025车队第5/137分。
+竖屏：不要复制网页整版；将两项事实重绘为纵向大数字卡。
+状态：表格已公开读取；无需登录。
+替代：用原创字卡重绘事实，标来源及2025全赛季。
+
+A20 2026当前车队成绩
+https://www.formula1.com/en/results/2026/team
+查找：定位Williams行，核对第9与12分；同时显示截至2026-10-18新加坡站后。
+用途：G01与P01/P02现状卡
+竖屏：将可核对事实重绘为竖屏字卡；若获权图片，原比例嵌入，勿硬裁长车。
+状态：已读取页面正文或正式成绩；图片视频未获复用许可。
+替代：使用自录旁白及本包原创图卡；仅据文字作中文转述。
+
+A03 FW48正侧视/俯视与外观
+https://www.formula1.com/en/latest/article/gallery-check-out-every-angle-of-williams-new-livery-for-their-2026-f1-car.5I6ZzmDjZPrMpl9UByTQAV.5I6ZzmDjZPrMpl9UByTQAV
+查找：打开顶部4图轮播；优先 side_v4-Albon-W-RH_169.jpg 与俯视图；向权利方索取大图。
+用途：建立FW48视觉辨识；仅能说明发布涂装，不能用来证明巴库实际升级细节。
+竖屏：整车按原比例嵌入上半屏；下半屏做部位标注，不将长车硬裁为9:16。
+状态：正文及4张图链接已读取；实际图片分辨率、授权及下载方式待索取。
+替代：自绘通用赛车侧影，标示意图，不复刻专有照片。
+
+A04 银石首次试车/测试涂装
+https://www.formula1.com/en/latest/article/williams-fw48-hits-track-for-first-time-at-silverstone.66xs7oREdYguYrt033I9DJ
+查找：顶部4图轮播；找2026-02-04银石说明；正文搜索 shakedown。
+用途：试车时间轴：2月4日银石首次行驶；与缺席巴塞罗那区别。
+竖屏：跑车全景保留16:9，上下叠日期和地图式文字；只在高分辨率允许时裁细节。
+状态：正文和图链接已打开；本文发布2月5日，事件发生2月4日。
+替代：原创日期轴+轮胎/计时器小图形；无实车画面也能讲清。
+
+A06 车队测试声明视频
+https://www.williamsf1.com/videos/3a35a4b8-fdd0-47f3-b77e-02cc294901bc/james-vowles-fw48-testing-update
+查找：打开播放器；标题搜索 FW48 Testing Update；找ready to run/Bahrain陈述。
+用途：在开场疑问后给出车队当时解释的入口。
+竖屏：获权后以原比例上屏+下部中文转述；无出镜版本直接用引述字卡。
+状态：视频专页标题与摘要已打开；未实际播放，时码、清晰度、地区/登录限制未验证。
+替代：原创引述卡，标发言人、时间范围和该页来源，不伪造原声。
+
+A21 早研发与制造预算解释
+https://www.formula1.com/en/latest/article/vowles-explains-why-williams-had-messy-winter-as-team-bounce-back-with-miami-double-points-finish.695XvQJgGKaoBh0Vsf4s02.695XvQJgGKaoBh0Vsf4s02
+查找：页面查找wind tunnel / build / cost cap；选用自己的中文转述。
+用途：P03/P04/P05及G03流程卡
+竖屏：将可核对事实重绘为竖屏字卡；若获权图片，原比例嵌入，勿硬裁长车。
+状态：已读取页面正文或正式成绩；图片视频未获复用许可。
+替代：使用自录旁白及本包原创图卡；仅据文字作中文转述。
+
+A09 开季承诺与模拟器建设
+https://www.williamsf1.com/articles/cc0334c1-062d-4661-991b-20c68ac0b7de/james-vowles-we-know-what-it-takes
+查找：查找Driver in Loop / end of 2025 / not the finished article。
+用途：工厂篇事实入口：模拟器2025年底使用并签收；2026仍非重建终点。
+竖屏：原创模拟器—设计—验证竖向流程；若图片获权作为顶部一张辅图。
+状态：2月3日正文公开；本文不提供已确认的工厂内部B-roll，不应冒充找到工厂实拍。
+替代：原创工位、模拟器、制造流程线稿；标概念示意，无真实设备尺寸。
+
+A13 巴库升级为何重要
+https://www.formula1.com/en/latest/article/why-the-fw48-upgrade-package-in-baku-is-so-crucial-for-williams.2vxRlXS2yDBqT7O5VMCn3s.2vxRlXS2yDBqT7O5VMCn3s
+查找：查找chassis / weight / processes；记录文章日期9月18日。
+用途：升级前预期和生产流程篇；只引用文字能支持的因果链。
+竖屏：长车图原比例嵌入，下方用三行流程标签；不裁断底盘。
+状态：正文已读；实拍图需另申请，不声称拿到升级CAD图。
+替代：原创底盘减重/制造验证/上车流程，标概念关系而非真实结构。
+
+A14 巴库升级后的实际评价
+https://www.formula1.com/en/latest/article/a-step-in-the-right-direction-but-not-enough-vowles-assesses-impact-of-williams-baku-upgrade.75ILsDtRS1tMzAtC0ZWhSS.75ILsDtRS1tMzAtC0ZWhSS
+查找：找9月24日、FP1后采访；页内FW48巴库图。
+用途：把有改善与问题未解决同时展示；FP1结果不要冒充比赛名次。
+竖屏：上方升级车全景、下方改善/不足两张卡；原比例保全车辆。
+状态：全文与图片链接已打开；F1 TV采访画面另需许可，订阅不授予再剪辑权。
+替代：原创两栏结论卡和升级时间轴，不使用付费画面。
+
+A24 巴库升级达到预期的平衡证据
+https://www.williamsf1.com/articles/ce71624a-6607-4b3c-8df8-a0c3b1ec6086/report-azerbaijan-friday-2026
+查找：定位Albon对upgrade/project targets的说法及Vowles赛道局限说明。
+用途：P07升级有效但尚未稳定得分
+竖屏：将可核对事实重绘为竖屏字卡；若获权图片，原比例嵌入，勿硬裁长车。
+状态：已读取页面正文或正式成绩；图片视频未获复用许可。
+替代：使用自录旁白及本包原创图卡；仅据文字作中文转述。
+
+A23 巴库正赛结果
+https://www.fia.com/news/f1-russell-holds-verstappen-win-dramatic-azerbaijan-grand-prix-red-bull-claim-double-podium
+查找：正文定位Sainz与Albon；第十得一分、阿尔本事故退赛。
+用途：P07结果字卡
+竖屏：将可核对事实重绘为竖屏字卡；若获权图片，原比例嵌入，勿硬裁长车。
+状态：已读取页面正文或正式成绩；图片视频未获复用许可。
+替代：使用自录旁白及本包原创图卡；仅据文字作中文转述。
+
+A22 新加坡最新比赛及温度问题
+https://www.williamsf1.com/articles/52b77be8-b17a-4913-862a-1c6a58b82cb0/report-singapore-grand-prix-2026
+查找：读车队报告正文及Albon/Vowles发言；Sainz14，Albon18且提前退赛。
+用途：P02/P08最新案例
+竖屏：将可核对事实重绘为竖屏字卡；若获权图片，原比例嵌入，勿硬裁长车。
+状态：已读取页面正文或正式成绩；图片视频未获复用许可。
+替代：使用自录旁白及本包原创图卡；仅据文字作中文转述。
+
+A25 新加坡正式成绩核对
+https://www.formula1.com/en/results/2026/races/1296/singapore/race-result
+查找：定位Sainz P14、Albon P18 DNF；不能把列名次等同正常完赛。
+用途：P08结果字卡与出版前复核
+竖屏：将可核对事实重绘为竖屏字卡；若获权图片，原比例嵌入，勿硬裁长车。
+状态：已读取页面正文或正式成绩；图片视频未获复用许可。
+替代：使用自录旁白及本包原创图卡；仅据文字作中文转述。
+
+A17 截稿前最新新加坡复盘
+https://www.williamsf1.com/videos/8c5d7d06-4d06-4bf3-a855-536ae2ee7cc9/the-vowles-verdict-singapore-gp?autoplay=1
+查找：由官方文章Latest点入；列表标10月16日/8:25；播放器逐段复核。
+用途：末段更新入口：检验巴库后问题是否持续；未经实际播放不可声称其具体技术结论。
+竖屏：采用无出镜三问收尾：速度？执行？升级兑现？有证据才填答案。
+状态：专页已打开，摘要仅称新加坡艰难周末；时码/全文/播放未验证。
+替代：原创待验证问题卡；如未听完则完全不引用具体发言。
+
+A05 错过巴塞罗那后的巴林采访
+https://www.formula1.com/en/latest/article/vowles-insists-mood-has-lifted-at-williams-in-bahrain-after-missing.37Kn8JnNn1T2CUJBqTK16B.37Kn8JnNn1T2CUJBqTK16B
+查找：搜索 delays in the FW48 programme / February 4；选择采访图。
+用途：解释缺席测试及重新上轨；不渲染成整段季前测试全部缺席。
+竖屏：若获授权用半身近景置上，下面同期转述；可完全以日期轴替代人物。
+状态：正文及采访图链接已打开；视频播放、截图授权未确认。
+替代：原创三节点轴：缺席巴塞罗那→银石→巴林；旁白转述。
+
+A07 FW48涂装官方发布视频
+https://www.williamsf1.com/videos/ca274980-0659-4e0a-8e5c-e30c6b908aa9/atlassian-williams-f1-team-fw48-livery?autoplay=1
+查找：打开播放器，找整车旋转/侧面展示；先看是否仅涂装动画。
+用途：章节转场、车身外观识别；不能当作真实赛道表现证明。
+竖屏：全车横图置中，顶部章节题、底部注释；允许上下两角度分屏。
+状态：专页可读；页面No longer available关联数字徽章，不能据此断言视频失效；播放仍需人工检查。
+替代：原创蓝/黑/白配色转场及通用侧影，使用自有字体。
+
+A08 官方涂装近观页
+https://www.williamsf1.com/articles/b299bc9b-de99-4e81-9675-851ac2ed0fed/discover-our-fw48-livery-up-close-and-claim-the-badge
+查找：正文Take a closer look处；点击Watch Now进入A07；徽章领取已不再开放。
+用途：定位官方近观入口，与A03相互备份。
+竖屏：整车原比例嵌图；若只有低清图则只作研究参考。
+状态：正文公开；徽章显示No longer available/Sign up，不是素材商用许可证。
+替代：原创涂装色块和标签；不把网页徽章当可用logo。
+
+A10 澳大利亚后的问题拆解
+https://www.williamsf1.com/articles/fe3e5b23-adbb-4f97-9bf5-e60ff87378e4/vowles-outlines-plan-to-unlock-performance-after-opening-rounds
+查找：搜索mass / balance window / energy；读全文并进入A11原始节目。
+用途：将质量、气动、平衡窗口、能量管理分开讨论；不伪造各项圈速损失。
+竖屏：四个原因做竖向四卡轮流高亮，每屏最多两条；保留来源脚注。
+状态：3月12日正文已打开；原声需播放器核验及授权。
+替代：原创问题树，明确是车队解释，不当作独立测量结果。
+
+A11 澳大利亚复盘官方视频
+https://www.williamsf1.com/videos/2de5f416-b0cc-4244-86b6-a64973bf965c/the-vowles-verdict-australia-2026?autoplay=1
+查找：在A10点latest episode；人工播放核对减重、气动和短/中期问题段。
+用途：官方原始采访研究入口；可申请少量采访画面和声音。
+竖屏：原比例访谈小窗+大字中文解释；无出镜时以原创引述卡替代。
+状态：具体视频页已打开，播放/字幕/时码未核验；不是已下载素材。
+替代：用A10可核对文字自录旁白，禁止AI伪造Vowles声音。
+
+A12 开季目标视频
+https://www.formula1.com/en/video/vowles-hoping-williams-can-exceed-the-midfield-cars-in-2026.1857555665923519656
+查找：打开播放器；页示3:07、2月19日；播放后记录具体目标语句时码。
+用途：作为赛前期待与赛季进程对照；避免把未来目标写成保证。
+竖屏：访谈原比例小窗置中，目标/现实两段文字上下对照。
+状态：专页和3:07元数据可读；未实际播放，地区/账户要求未知。
+替代：原创目标卡，采用中文转述并明确日期。
+
+A15 组织/制造系统改革
+https://www.formula1.com/en/latest/article/piers-thynne-joins-williams-from-mclaren-as-chief-optimisation-and-planning-officer-amid-raft-of-senior-recruits.10NtETBHXamqiyhB0FTodE
+查找：搜索August / robotics / manufacturing / processes；读取5月21日任命说明。
+用途：把技术问题扩展到流程、人、工具；不能以任命本身证明改革成功。
+竖屏：原创三层流程图代替人头海报，顶部写任命及预计履职日期。
+状态：正文及肖像/赛道图链接已打开；未找到可授权直接下载的工厂内部实拍。
+替代：原创人/流程/技术图标；字幕明确为改革措施。
+
+A16 10月官方长访谈入口
+https://www.formula1.com/en/video/we-can-do-this-how-williams-came-together-through-2026-troubles-f1-beyond-the-grid-podcast.1878400352493160833
+查找：打开播放器；发布日期10月7日；页面提到F1 YouTube完整节目，但本次未核实该完整视频ID。
+用途：最新管理层回顾研究；旁白无出镜方案不依赖主持人肖像。
+竖屏：访谈原比例嵌小窗；未获权则仅给中文转述卡和可点击来源。
+状态：专页标题摘要已读；播放和完整访谈内容未核验，不凭摘要扩写具体内幕。
+替代：原创章节总结卡；先听完并核对再加入具体论点。
+
+A18 2026规则图解入口
+https://www.formula1.com/en/page/2026-f1-regulations
+查找：页面点Learn more进入规则专题；查新动力、能量及主动空气动力学主题。
+用途：先讲新规则增加系统耦合；不能据此断定Williams哪一部件失败。
+竖屏：原创竖向能量箭头和车身轮廓图，任何技术插图整幅保留。
+状态：官方专题公开；视频仍需播放器核验；官方图形/动画未取得再用权。
+替代：原创通用ICE/电池/电机流程；不画未经证实的FW48真实走线。
+
+A19 2026规则原始文件目录
+https://www.fia.com/regulation/category/110/technical-regulations
+查找：滚至Archives→2026→Section C；当前列首Iss19/2026-06-25；另查Section D/F。
+用途：核对技术/财务/运营条文版本；图表只用核准后的条文。
+竖屏：原创竖向规则版本卡；不把横向PDF页缩得无法阅读。
+状态：目录成功打开；Iss19 PDF点击本次抓取失败，未读取正文，不能据此填写具体最低重量。
+替代：原创条文摘要，明确Issue/日期/条款号；正文未核验的数值暂不填。
+
+A02 2025两名车手基线
+https://www.formula1.com/en/results/2025/drivers
+查找：页面查找 Albon / Sainz；核对73/64分、P8/P9。
+用途：说明2025两名车手共同贡献；不可冒充2026统计。
+竖屏：上下两张车手文字卡，数字大于88px；不依赖肖像。
+状态：表格已公开读取；无需登录。
+替代：原创姓名、数字和双色条形图。
+
+F1使用指南
+https://www.formula1.com/en/information/guidelines.4EOKE9RRqevL4niTK9kWyt
+Williams条款
+https://www.williamsf1.com/policies/terms-and-conditions
