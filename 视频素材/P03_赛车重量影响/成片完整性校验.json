@@ -1,0 +1,30 @@
+{
+  "P03_A_Acceleration.mov": {
+    "bytes": 107367682,
+    "sha256": "d49a93c2e5ddfba89e1c64891055952efd968ece3e878b5d2201345b069693d5"
+  },
+  "P03_B_Braking.mov": {
+    "bytes": 103857770,
+    "sha256": "9daad36900fdf560229886d6f77c8510d04402ba2032c02e437ccac66e21ac2e"
+  },
+  "P03_C_Cornering.mov": {
+    "bytes": 143828365,
+    "sha256": "c09ac44812ed89a8d946e4ae3c5f091bc8baa32806e66f606b584d04745cac7a"
+  },
+  "P03_A_Preview.mp4": {
+    "bytes": 1607717,
+    "sha256": "1fc795eacf96115383e6b8663a302711275959268326db6c382a227ea020dad6"
+  },
+  "P03_B_Preview.mp4": {
+    "bytes": 1517632,
+    "sha256": "0b6eb4e99be4aff3bf9ee40874c7f8c5694031143d0f522f1931bd9de54dd79a"
+  },
+  "P03_C_Preview.mp4": {
+    "bytes": 1803031,
+    "sha256": "3f76ca4b0bcbaeb08467f8d9b19eb6b2dc858b744c6adacd7c6633ce9c2baa78"
+  },
+  "P03_Combined_Demo.mp4": {
+    "bytes": 5266310,
+    "sha256": "0c2638b2fd8693b464a4155a65bd6db141a3312b83a833fa72b5c049776363bf"
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "createdAt": "2026-10-20T17:09:27.631Z",
+  "files": [
+    {
+      "file": "P03_A_Acceleration.mov",
+      "codec": "prores",
+      "profile": "4",
+      "pixelFormat": "yuva444p12le",
+      "tag": "ap4h",
+      "width": 1920,
+      "height": 1080,
+      "fps": 30,
+      "frames": 210,
+      "duration": 7,
+      "bytes": 107367682,
+      "decoded": "passed",
+      "alphaScan": {
+        "decodedFrames": 210,
+        "analysisResolution": [
+          480,
+          270
+        ],
+        "firstFrameAlphaMax": 0,
+        "lastFrameAlphaMax": 0,
+        "carCorridorAlphaMax": 0,
+        "subtitleZoneAlphaMax": 0,
+        "activeFrames": 202,
+        "distinctFrames": 169
+      },
+      "fullResolutionAlpha": {
+        "min": 0,
+        "max": 255,
+        "zero": 1771225,
+        "partial": 271290,
+        "opaque": 31085,
+        "carMax": 0,
+        "subtitleMax": 0
+      }
+    },
+    {
+      "file": "P03_B_Braking.mov",
+      "codec": "prores",
+      "profile": "4",
+      "pixelFormat": "yuva444p12le",
+      "tag": "ap4h",
+      "width": 1920,
+      "height": 1080,
+      "fps": 30,
+      "frames": 210,
+      "duration": 7,
+      "bytes": 103857770,
+      "decoded": "passed",
+      "alphaScan": {
+        "decodedFrames": 210,
+        "analysisResolution": [
+          480,
+          270
+        ],
+        "firstFrameAlphaMax": 0,
+        "lastFrameAlphaMax": 0,
+        "carCorridorAlphaMax": 0,
+        "subtitleZoneAlphaMax": 0,
+        "activeFrames": 202,
+        "distinctFrames": 203
+      },
+      "fullResolutionAlpha": {
+        "min": 0,
+        "max": 255,
+        "zero": 1768151,
+        "partial": 254162,
+        "opaque": 51287,
+        "carMax": 0,
+        "subtitleMax": 0
+      }
+    },
+    {
+      "file": "P03_C_Cornering.mov",
+      "codec": "prores",
+      "profile": "4",
+      "pixelFormat": "yuva444p12le",
+      "tag": "ap4h",
+      "width": 1920,
+      "height": 1080,
+      "fps": 30,
+      "frames": 240,
+      "duration": 8,
+      "bytes": 143828365,
+      "decoded": "passed",
+      "alphaScan": {
+        "decodedFrames": 240,
+        "analysisResolution": [
+          480,
+          270
+        ],
+        "firstFrameAlphaMax": 0,
+        "lastFrameAlphaMax": 0,
+        "carCorridorAlphaMax": 0,
+        "subtitleZoneAlphaMax": 0,
+        "activeFrames": 232,
+        "distinctFrames": 172
+      },
+      "fullResolutionAlpha": {
+        "min": 0,
+        "max": 255,
+        "zero": 1763078,
+        "partial": 277062,
+        "opaque": 33460,
+        "carMax": 0,
+        "subtitleMax": 0
+      }
+    },
+    {
+      "file": "P03_A_Preview.mp4",
+      "codec": "h264",
+      "profile": "100",
+      "pixelFormat": "yuv420p",
+      "tag": "avc1",
+      "width": 1920,
+      "height": 1080,
+      "fps": 30,
+      "frames": 210,
+      "duration": 7,
+      "bytes": 1607717,
+      "decoded": "passed"
+    },
+    {
+      "file": "P03_B_Preview.mp4",
+      "codec": "h264",
+      "profile": "100",
+      "pixelFormat": "yuv420p",
+      "tag": "avc1",
+      "width": 1920,
+      "height": 1080,
+      "fps": 30,
+      "frames": 210,
+      "duration": 7,
+      "bytes": 1517632,
+      "decoded": "passed"
+    },
+    {
+      "file": "P03_C_Preview.mp4",
+      "codec": "h264",
+      "profile": "100",
+      "pixelFormat": "yuv420p",
+      "tag": "avc1",
+      "width": 1920,
+      "height": 1080,
+      "fps": 30,
+      "frames": 240,
+      "duration": 8,
+      "bytes": 1803031,
+      "decoded": "passed"
+    },
+    {
+      "file": "P03_Combined_Demo.mp4",
+      "codec": "h264",
+      "profile": "100",
+      "pixelFormat": "yuv420p",
+      "tag": "avc1",
+      "width": 1920,
+      "height": 1080,
+      "fps": 30,
+      "frames": 660,
+      "duration": 22,
+      "bytes": 5266310,
+      "decoded": "passed"
+    }
+  ],
+  "regression": {
+    "status": "passed",
+    "unchangedFiles": [
+      "src/G02.tsx",
+      "src/G01.tsx",
+      "src/project.ts",
+      "src/motion.ts",
+      "src/style.css",
+      "src/components/Primitives.tsx",
+      "exports/G01_期待与现实_12秒.mp4",
+      "exports/KarchunRacing_威廉姆斯_MG演示_27秒.mp4",
+      "exports/G02_研发与制造如何衔接_15秒.mp4"
+    ]
+  },
+  "notes": [
+    "All MOV frames decoded to RGBA at 480x270; protected-zone alpha checked in every frame.",
+    "Full-resolution frame 110 additionally checked, saved, and composited onto bright/dark placeholder plates.",
+    "ProRes 4444 decoder reports yuva444p12le; encoder input is yuva444p10le with PNG capture."
+  ]
+}
